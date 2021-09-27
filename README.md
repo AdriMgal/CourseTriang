@@ -1,1 +1,1 @@
-# CourseTriang
+# CourseTriang tested Git from RStudio
